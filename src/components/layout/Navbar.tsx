@@ -116,7 +116,7 @@ export default function Navbar() {
 
               <div className="flex items-center justify-center gap-4">
                 <a
-                  href="https://wa.me/27215551234?text=Hi%20Kelvin%20Construction%2C%20I%27d%20like%20a%20quote%20please"
+                  href="https://wa.me/27616360265?text=Hi%20Kelvin%20Construction%2C%20I%27d%20like%20a%20quote%20please"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center h-10 w-10 rounded-full bg-[#25D366] text-white hover:opacity-90 transition-opacity"
@@ -125,7 +125,7 @@ export default function Navbar() {
                   <MessageCircle className="h-5 w-5" />
                 </a>
                 <a
-                  href="tel:+27215551234"
+                  href="tel:+27616360265"
                   className="flex items-center justify-center h-10 w-10 rounded-full bg-primary text-white hover:opacity-90 transition-opacity"
                   aria-label="Call us"
                 >

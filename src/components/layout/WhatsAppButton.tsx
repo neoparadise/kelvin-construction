@@ -7,7 +7,7 @@ export default function WhatsAppButton() {
   return (
     <div className="fixed bottom-6 right-6 z-[100]">
       <motion.a
-        href="https://wa.me/27215551234?text=Hi%20Kelvin%20Construction%2C%20I%27d%20like%20a%20quote%20please"
+        href="https://wa.me/27616360265?text=Hi%20Kelvin%20Construction%2C%20I%27d%20like%20a%20quote%20please"
         target="_blank"
         rel="noopener noreferrer"
         className="group relative flex items-center justify-center h-14 w-14 rounded-full bg-[#25D366] text-white shadow-lg hover:shadow-xl transition-shadow"

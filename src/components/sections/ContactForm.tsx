@@ -106,7 +106,7 @@ export default function ContactForm() {
                   <Input
                     id="phone"
                     type="tel"
-                    placeholder="+27 21 555 1234"
+                    placeholder="+27 61 636 0265"
                     {...register('phone')}
                   />
                   {errors.phone && (
@@ -177,10 +177,10 @@ export default function ContactForm() {
                   Phone
                 </h4>
                 <a
-                  href="tel:+27215551234"
+                  href="tel:+27616360265"
                   className="text-sm text-gray-600 transition-colors hover:text-primary"
                 >
-                  +27 21 555 1234
+                  +27 61 636 0265
                 </a>
               </div>
             </div>
@@ -225,7 +225,7 @@ export default function ContactForm() {
                   WhatsApp
                 </h4>
                 <a
-                  href="https://wa.me/27215551234?text=Hi%20Kelvin%20Construction%2C%20I%27d%20like%20a%20quote%20please"
+                  href="https://wa.me/27616360265?text=Hi%20Kelvin%20Construction%2C%20I%27d%20like%20a%20quote%20please"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-[#25D366] transition-colors hover:underline"
