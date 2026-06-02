@@ -126,7 +126,7 @@ export default function Hero() {
               asChild
               variant="outline"
               size="xl"
-              className="border-white text-white hover:bg-white hover:text-gray-900"
+              className="border-white/80 text-white bg-white/10 hover:bg-white hover:text-gray-900"
             >
               <Link href="/projects">View Our Work</Link>
             </Button>
