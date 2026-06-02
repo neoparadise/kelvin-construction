@@ -1,7 +1,7 @@
 "use client"
 
 import ContactForm from "@/components/sections/ContactForm"
-import { motion } from "motion/react"
+import { motion } from "framer-motion"
 
 export default function ContactPage() {
   return (

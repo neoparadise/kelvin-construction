@@ -1,6 +1,6 @@
 "use client"
 
-import { motion } from 'motion/react'
+import { motion } from 'framer-motion'
 import ServicesGrid from '@/components/sections/ServicesGrid'
 import CTABanner from '@/components/sections/CTABanner'
 import { services } from '@/data/services'

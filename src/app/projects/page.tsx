@@ -2,7 +2,7 @@
 
 import ProjectGrid from "@/components/sections/ProjectGrid"
 import { projects } from "@/data/projects"
-import { motion } from "motion/react"
+import { motion } from "framer-motion"
 
 export default function ProjectsPage() {
   return (
